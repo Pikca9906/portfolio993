@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(229, 215, 231);
+    color: rgb(64, 7, 90);
+}
+img{
+width: 180px;
+height: 230px;
+}
+.link-header{
+color: rgb(166, 0, 231);
+
+}
+.link-text {
+color: rgb(166, 0, 231);
+
+
+}
+.link-nav{
+
+color: rgb(172, 107, 197);
+
+
+
+}
